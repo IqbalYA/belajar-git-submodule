@@ -1,5 +1,5 @@
 function sayHello(name){
-    return "HEllo" + name;
+    return "Hello" + name;
 }
 
 function sayGuest(){
